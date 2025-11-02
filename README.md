@@ -1,6 +1,6 @@
 # Touch and Go: Parallel Multi-Agent AI Framework
 
-> **A novel architecture for parallel execution of AI agents with intelligent coordination, built on the SPARC cognitive framework**
+> **A novel architecture for parallel execution of AI agents with intelligent coordination, built on Roo Code and the SPARC cognitive framework**
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Architecture](https://img.shields.io/badge/architecture-SPARC-green.svg)](#sparc-framework-integration)
